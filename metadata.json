@@ -1,0 +1,6 @@
+{
+  "name": "Percept",
+  "description": "See your website through a stranger's eyes. AI-powered website first-impression clarity analyzer evaluating visitor clarity across five signals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
